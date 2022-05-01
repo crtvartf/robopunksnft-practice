@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robopunksnft-practice/static/css/main.b98837d3.css",
+    "main.js": "/robopunksnft-practice/static/js/main.2e764ad7.js",
+    "static/media/parallax-bg.gif": "/robopunksnft-practice/static/media/parallax-bg.a753668321d10848110d.gif",
+    "index.html": "/robopunksnft-practice/index.html",
+    "main.b98837d3.css.map": "/robopunksnft-practice/static/css/main.b98837d3.css.map",
+    "main.2e764ad7.js.map": "/robopunksnft-practice/static/js/main.2e764ad7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b98837d3.css",
+    "static/js/main.2e764ad7.js"
+  ]
+}
